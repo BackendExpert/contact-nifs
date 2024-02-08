@@ -1,7 +1,9 @@
 
 const Contact = () => {
   return (
-    <div>Contact</div>
+    <div className="container mx-auto px-10">
+      Hi all
+    </div>
   )
 }
 
