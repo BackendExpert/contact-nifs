@@ -108,6 +108,10 @@ const Contact = () => {
           <p className="">rti@nifs.ac.lk</p>
         </div>
       </div>
+      <p className="">Social Media</p>
+      <div className="md:grid grid-cols-4 gap-4">
+        
+      </div>
     </div>
   )
 }
