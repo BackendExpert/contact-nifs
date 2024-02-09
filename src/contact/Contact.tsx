@@ -146,10 +146,10 @@ const Contact = () => {
         <div className="">
           <div className="">
             <div className="">
-              <IonIcon name="logo-facebook" />
+              <IonIcon name="logo-youtube" />
             </div>
             <div className="">
-              <p className="">Facebook</p>
+              <p className="">Youtube</p>
             </div>
           </div>
         </div>
@@ -157,10 +157,10 @@ const Contact = () => {
         <div className="">
           <div className="">
             <div className="">
-              <IonIcon name="logo-facebook" />
+              <IonIcon name="logo-linkedin" />
             </div>
             <div className="">
-              <p className="">Facebook</p>
+              <p className="">Linkedin</p>
             </div>
           </div>
         </div>
