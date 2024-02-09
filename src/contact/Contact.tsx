@@ -18,9 +18,9 @@ const Contact = () => {
                  <span><IonIcon name="call" /></span>              
               </div>
               <div>
-                <p className="">[+94] </p>
-                <p className=""></p>
-                <p className=""></p>
+                <p className="">[+94] 81 22 32 106</p>
+                <p className="">[+94] 81 22 32 107</p>
+                <p className="">[+94] 81 22 32 131</p>
               </div>
             </div>
           </div>
