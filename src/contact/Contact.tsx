@@ -112,7 +112,7 @@ const Contact = () => {
       </div>
       <p className="text-2xl pb-2 mt-12">Social Media</p>
       <hr className="mb-4"/>
-      <div className="md:grid grid-cols-4 gap-4">
+      <div className="md:grid grid-cols-4 gap-4 mb-12">
         <div className="">
           <div className="flex mt-4">
             <div className="">
