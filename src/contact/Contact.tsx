@@ -135,10 +135,10 @@ const Contact = () => {
         <div className="">
           <div className="">
             <div className="">
-              <IonIcon name="logo-facebook" />
+              <IonIcon name="logo-instagram" />
             </div>
             <div className="">
-              <p className="">Facebook</p>
+              <p className="">Instagram</p>
             </div>
           </div>
         </div>
