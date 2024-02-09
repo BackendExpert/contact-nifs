@@ -110,7 +110,16 @@ const Contact = () => {
       </div>
       <p className="">Social Media</p>
       <div className="md:grid grid-cols-4 gap-4">
-        
+        <div className="">
+          <div className="">
+            <div className="">
+              <IonIcon name="logo-facebook" />
+            </div>
+            <div className="">
+              <p className="">Facebook</p>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   )
