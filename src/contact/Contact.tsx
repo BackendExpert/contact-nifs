@@ -84,6 +84,9 @@ const Contact = () => {
           </div>
         </div>
       </div>
+
+      <p className="">Enquiries</p>
+      <div className="md:grid grid-cols-3 gap-4"></div>
     </div>
   )
 }
