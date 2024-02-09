@@ -120,6 +120,50 @@ const Contact = () => {
             </div>
           </div>
         </div>
+
+        <div className="">
+          <div className="">
+            <div className="">
+              <IonIcon name="logo-facebook" />
+            </div>
+            <div className="">
+              <p className="">Facebook</p>
+            </div>
+          </div>
+        </div>
+
+        <div className="">
+          <div className="">
+            <div className="">
+              <IonIcon name="logo-facebook" />
+            </div>
+            <div className="">
+              <p className="">Facebook</p>
+            </div>
+          </div>
+        </div>
+
+        <div className="">
+          <div className="">
+            <div className="">
+              <IonIcon name="logo-facebook" />
+            </div>
+            <div className="">
+              <p className="">Facebook</p>
+            </div>
+          </div>
+        </div>
+
+        <div className="">
+          <div className="">
+            <div className="">
+              <IonIcon name="logo-facebook" />
+            </div>
+            <div className="">
+              <p className="">Facebook</p>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   )
