@@ -66,7 +66,7 @@ const Contact = () => {
             <p>Mathale</p>
             <p>Sri Lanka</p>
           </div>
-          <div className="">
+          <div className="flex mt-4">
               <div className="">
                  <span><IonIcon name="call" /></span>              
               </div>
