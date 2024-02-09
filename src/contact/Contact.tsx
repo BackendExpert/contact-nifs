@@ -68,17 +68,17 @@ const Contact = () => {
           </div>
           <div className="flex mt-4">
               <div className="">
-                 <span><IonIcon name="call" /></span>              
+                 <span><IonIcon name="call" size="large"/></span>              
               </div>
-              <div>
+              <div className="pl-4">
                 <p className="">[+94] 66 20 57 960</p>
               </div>
           </div>
-          <div className="">
+          <div className="flex">
             <div className="">
-              <IonIcon name="mail" />
+              <IonIcon name="mail" size="large"/>
             </div>
-            <div className="">
+            <div className="pl-4">
               <p className="">pophamard@nifs.ac.lk</p>
             </div>
           </div>
