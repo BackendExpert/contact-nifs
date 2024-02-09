@@ -57,7 +57,15 @@ const Contact = () => {
               <div>
                 <p className="">[+94] 66 20 57 960</p>
               </div>
+          </div>
+          <div className="">
+            <div className="">
+              <IonIcon name="mail" />
             </div>
+            <div className="">
+              <p className="">pophamard@nifs.ac.lk</p>
+            </div>
+          </div>
         </div>
       </div>
     </div>
