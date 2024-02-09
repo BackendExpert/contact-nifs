@@ -45,15 +45,15 @@ const Contact = () => {
               <div className="">
                  <span><IonIcon name="call" size="large"/></span>              
               </div>
-              <div>
+              <div className="pl-4">
                 <p className="">[+94] 11 26 97 538</p>
               </div>
           </div>
-          <div className="">
+          <div className="flex mt-4">
             <div className="">
-              <IonIcon name="mail" />
+              <IonIcon name="mail" size="large"/>
             </div>
-            <div className="">
+            <div className="px-4">
               <p className="">pophamard@nifs.ac.lk</p>
             </div>
           </div>
