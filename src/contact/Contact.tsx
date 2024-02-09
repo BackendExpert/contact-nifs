@@ -86,7 +86,20 @@ const Contact = () => {
       </div>
 
       <p className="">Enquiries</p>
-      <div className="md:grid grid-cols-3 gap-4"></div>
+      <div className="md:grid grid-cols-3 gap-4">
+        <div className="">
+          <p className="">General enquiries</p>
+          <p className="">info@nifs.ac.lk</p>
+        </div>
+        <div className="">
+          <p className="">Media enquiries</p>
+          <p className="">media@nifs.ac.lk</p>
+        </div>
+        <div className="">
+          <p className="">Research enquiries</p>
+          <p className="">research@nifs.ac.lk</p>
+        </div>
+      </div>
     </div>
   )
 }
