@@ -13,6 +13,9 @@ const Contact = () => {
             <p>Hanthana Road</p>
             <p>Kandy</p>
             <p>Sri Lanka</p>
+            <div className="">
+              <span><IonIcon name="" /></span>
+            </div>
           </div>
         </div>
         <div className="">
