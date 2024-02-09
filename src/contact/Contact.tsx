@@ -18,17 +18,17 @@ const Contact = () => {
           <p className="">Colombo Office</p>
           <div className="">
             <p>National Institute of Fundamental Studies</p>
-            <p>Hanthana Road</p>
-            <p>Kandy</p>
+            <p>No,380/71,72, Bauddhaloka Mawatha</p>
+            <p>Colombo 07</p>
             <p>Sri Lanka</p>
           </div>
         </div>
         <div className="">
           <p className="">NIFS Sam Popham's Arboretum</p>
           <div className="">
-            <p>National Institute of Fundamental Studies</p>
-            <p>Hanthana Road</p>
-            <p>Kandy</p>
+            <p>Kandalama Road</p>
+            <p>Damubulla</p>
+            <p>Mathale</p>
             <p>Sri Lanka</p>
           </div>
         </div>
