@@ -86,7 +86,7 @@ const Contact = () => {
         </div>
       </div>
 
-      <p className="text-2xl pb-2 mt-8">Enquiries</p>
+      <p className="text-2xl pb-2 mt-12">Enquiries</p>
       <hr className="mb-4"/>
       <div className="md:grid grid-cols-3 gap-4">
         <div className="">
