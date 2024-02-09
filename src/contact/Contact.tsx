@@ -3,7 +3,7 @@ import IonIcon from "@reacticons/ionicons"
 const Contact = () => {
   return (
     <div className="container mx-auto px-10">
-      <h1 className="">Contact</h1>
+      <h1 className="text-center text-3xl font-semibold my-6">Contact Us</h1>
       <p className="">Office Location</p>
       <div className="md:grid grid-cols-3 gap-4">
         <div className="">
