@@ -13,24 +13,24 @@ const Contact = () => {
             <p>Hanthana Road</p>
             <p>Kandy</p>
             <p>Sri Lanka</p>
-            <div className="">
-              <div className="">
-                 <span><IonIcon name="call" /></span>              
+            <div className="flex mt-4">
+              <div className="pt-4">
+                 <span><IonIcon name="call" size="large"/></span>              
               </div>
-              <div>
+              <div className="pl-4">
                 <p className="">[+94] 81 22 32 106</p>
                 <p className="">[+94] 81 22 32 107</p>
                 <p className="">[+94] 81 22 32 131</p>
               </div>
-              <div className="">
+              </div>
+              <div className="flex mt-4">
                 <div className="">
-                  <IonIcon name="mail" />
+                  <IonIcon name="mail" size="large"/>
                 </div>
-                <div className="">
+                <div className="pl-4">
                   <p className="">pophamard@nifs.ac.lk</p>
                 </div>
-              </div>
-            </div>
+              </div>            
           </div>
         </div>
         <div className="">
@@ -41,9 +41,9 @@ const Contact = () => {
             <p>Colombo 07</p>
             <p>Sri Lanka</p>
           </div>
-          <div className="">
+          <div className="flex mt-4">
               <div className="">
-                 <span><IonIcon name="call" /></span>              
+                 <span><IonIcon name="call" size="large"/></span>              
               </div>
               <div>
                 <p className="">[+94] 11 26 97 538</p>
