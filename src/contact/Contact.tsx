@@ -22,6 +22,14 @@ const Contact = () => {
                 <p className="">[+94] 81 22 32 107</p>
                 <p className="">[+94] 81 22 32 131</p>
               </div>
+              <div className="">
+                <div className="">
+                  <IonIcon name="mail" />
+                </div>
+                <div className="">
+                  <p className="">pophamard@nifs.ac.lk</p>
+                </div>
+              </div>
             </div>
           </div>
         </div>
@@ -40,7 +48,15 @@ const Contact = () => {
               <div>
                 <p className="">[+94] 11 26 97 538</p>
               </div>
+          </div>
+          <div className="">
+            <div className="">
+              <IonIcon name="mail" />
             </div>
+            <div className="">
+              <p className="">pophamard@nifs.ac.lk</p>
+            </div>
+          </div>
         </div>
         <div className="">
           <p className="">NIFS Sam Popham's Arboretum</p>
