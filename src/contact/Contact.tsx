@@ -18,7 +18,7 @@ const Contact = () => {
                  <span><IonIcon name="call" /></span>              
               </div>
               <div>
-                <p className=""></p>
+                <p className="">[+94] </p>
                 <p className=""></p>
                 <p className=""></p>
               </div>
