@@ -8,7 +8,7 @@ const Contact = () => {
       <hr className="mb-4"/>
       <div className="md:grid grid-cols-3 gap-4">
         <div className="">
-          <p className="text-xl pb-2 font-semibold">Headquarters</p>
+          <p className="text-xl pb-2 font-semibold md:py-0 py-8">Headquarters</p>
           <div className="">
             <p>National Institute of Fundamental Studies</p>
             <p>Hanthana Road</p>
@@ -35,7 +35,7 @@ const Contact = () => {
           </div>
         </div>
         <div className="">
-          <p className="text-xl pb-2 font-semibold">Colombo Office</p>
+          <p className="text-xl pb-2 font-semibold md:py-0 py-8">Colombo Office</p>
           <div className="">
             <p>National Institute of Fundamental Studies</p>
             <p>No,380/71,72, Bauddhaloka Mawatha</p>
@@ -60,7 +60,7 @@ const Contact = () => {
           </div>
         </div>
         <div className="">
-          <p className="text-xl pb-2 font-semibold">NIFS Sam Popham's Arboretum</p>
+          <p className="text-xl pb-2 font-semibold md:py-0 py-8">NIFS Sam Popham's Arboretum</p>
           <div className="">
             <p>Kandalama Road</p>
             <p>Damubulla</p>
@@ -90,23 +90,23 @@ const Contact = () => {
       <hr className="mb-4"/>
       <div className="md:grid grid-cols-3 gap-4">
         <div className="">
-          <p className="text-xl font-semibold pb-2">General enquiries</p>
+          <p className="text-xl font-semibold pb-2 md:pt-0 pt-4">General enquiries</p>
           <p className="pl-6">info@nifs.ac.lk</p>
         </div>
         <div className="">
-          <p className="text-xl font-semibold pb-2">Media enquiries</p>
+          <p className="text-xl font-semibold pb-2 md:pt-0 pt-4">Media enquiries</p>
           <p className="pl-6">media@nifs.ac.lk</p>
         </div>
         <div className="">
-          <p className="text-xl font-semibold pb-2">Research enquiries</p>
+          <p className="text-xl font-semibold pb-2 md:pt-0 pt-4">Research enquiries</p>
           <p className="pl-6">research@nifs.ac.lk</p>
         </div>
         <div className="">
-          <p className="text-xl font-semibold pb-2">Website enquiries</p>
+          <p className="text-xl font-semibold pb-2 md:pt-0 pt-4">Website enquiries</p>
           <p className="pl-6">web@nifs.ac.lk</p>
         </div>
         <div className="">
-          <p className="text-xl font-semibold pb-2">Right to Information</p>
+          <p className="text-xl font-semibold pb-2 md:pt-0 pt-4">Right to Information</p>
           <p className="pl-6">rti@nifs.ac.lk</p>
         </div>
       </div>
