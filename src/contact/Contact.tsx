@@ -90,24 +90,24 @@ const Contact = () => {
       <hr className="mb-4"/>
       <div className="md:grid grid-cols-3 gap-4">
         <div className="">
-          <p className="">General enquiries</p>
-          <p className="">info@nifs.ac.lk</p>
+          <p className="text-xl font-semibold pb-2">General enquiries</p>
+          <p className="pl-6">info@nifs.ac.lk</p>
         </div>
         <div className="">
-          <p className="">Media enquiries</p>
-          <p className="">media@nifs.ac.lk</p>
+          <p className="text-xl font-semibold pb-2">Media enquiries</p>
+          <p className="pl-6">media@nifs.ac.lk</p>
         </div>
         <div className="">
-          <p className="">Research enquiries</p>
-          <p className="">research@nifs.ac.lk</p>
+          <p className="text-xl font-semibold pb-2">Research enquiries</p>
+          <p className="pl-6">research@nifs.ac.lk</p>
         </div>
         <div className="">
-          <p className="">Website enquiries</p>
-          <p className="">web@nifs.ac.lk</p>
+          <p className="text-xl font-semibold pb-2">Website enquiries</p>
+          <p className="pl-6">web@nifs.ac.lk</p>
         </div>
         <div className="">
-          <p className="">Right to Information</p>
-          <p className="">rti@nifs.ac.lk</p>
+          <p className="text-xl font-semibold pb-2">Right to Information</p>
+          <p className="pl-6">rti@nifs.ac.lk</p>
         </div>
       </div>
       <p className="">Social Media</p>
