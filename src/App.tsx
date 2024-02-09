@@ -7,7 +7,7 @@ export default function App() {
     <div>
         <NavBar />
         <Contact />   
-        
+        <Footer />
     </div>
   )
 }
