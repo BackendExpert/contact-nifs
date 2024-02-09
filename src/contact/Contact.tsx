@@ -5,6 +5,7 @@ const Contact = () => {
     <div className="container mx-auto px-10">
       <h1 className="text-center text-3xl font-semibold my-6">Contact Us</h1>
       <p className="">Office Location</p>
+      <hr />
       <div className="md:grid grid-cols-3 gap-4">
         <div className="">
           <p className="">Headquarters</p>
