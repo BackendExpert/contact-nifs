@@ -4,11 +4,11 @@ const Contact = () => {
   return (
     <div className="container mx-auto px-10">
       <h1 className="text-center text-3xl font-semibold my-6">Contact Us</h1>
-      <p className="">Office Location</p>
-      <hr />
+      <p className="text-2xl pb-2">Office Location</p>
+      <hr className="mb-4"/>
       <div className="md:grid grid-cols-3 gap-4">
         <div className="">
-          <p className="">Headquarters</p>
+          <p className="text-xl pb-2 font-semibold">Headquarters</p>
           <div className="">
             <p>National Institute of Fundamental Studies</p>
             <p>Hanthana Road</p>
