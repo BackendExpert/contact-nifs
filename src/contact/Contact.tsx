@@ -33,6 +33,14 @@ const Contact = () => {
             <p>Colombo 07</p>
             <p>Sri Lanka</p>
           </div>
+          <div className="">
+              <div className="">
+                 <span><IonIcon name="call" /></span>              
+              </div>
+              <div>
+                <p className="">[+94] 11 26 97 538</p>
+              </div>
+            </div>
         </div>
         <div className="">
           <p className="">NIFS Sam Popham's Arboretum</p>
@@ -42,6 +50,14 @@ const Contact = () => {
             <p>Mathale</p>
             <p>Sri Lanka</p>
           </div>
+          <div className="">
+              <div className="">
+                 <span><IonIcon name="call" /></span>              
+              </div>
+              <div>
+                <p className="">[+94] 66 20 57 960</p>
+              </div>
+            </div>
         </div>
       </div>
     </div>
