@@ -1,3 +1,4 @@
+import IonIcon from "@reacticons/ionicons"
 
 const Contact = () => {
   return (
