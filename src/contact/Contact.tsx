@@ -124,10 +124,10 @@ const Contact = () => {
         <div className="">
           <div className="">
             <div className="">
-              <IonIcon name="logo-facebook" />
+              <IonIcon name="logo-twitter" />
             </div>
             <div className="">
-              <p className="">Facebook</p>
+              <p className="">Twitter</p>
             </div>
           </div>
         </div>
