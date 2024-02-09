@@ -111,56 +111,56 @@ const Contact = () => {
       <p className="">Social Media</p>
       <div className="md:grid grid-cols-4 gap-4">
         <div className="">
-          <div className="">
+          <div className="flex mt-4">
             <div className="">
-              <IonIcon name="logo-facebook" />
+              <IonIcon name="logo-facebook" size="large"/>
             </div>
-            <div className="">
-              <p className="">Facebook</p>
-            </div>
-          </div>
-        </div>
-
-        <div className="">
-          <div className="">
-            <div className="">
-              <IonIcon name="logo-twitter" />
-            </div>
-            <div className="">
-              <p className="">Twitter</p>
+            <div className="pl-2">
+              <p className="text-xl">Facebook</p>
             </div>
           </div>
         </div>
 
         <div className="">
-          <div className="">
+          <div className="flex mt-4">
             <div className="">
-              <IonIcon name="logo-instagram" />
+              <IonIcon name="logo-twitter" size="large"/>
             </div>
-            <div className="">
-              <p className="">Instagram</p>
-            </div>
-          </div>
-        </div>
-
-        <div className="">
-          <div className="">
-            <div className="">
-              <IonIcon name="logo-youtube" />
-            </div>
-            <div className="">
-              <p className="">Youtube</p>
+            <div className="pl-2">
+              <p className="text-xl">Twitter</p>
             </div>
           </div>
         </div>
 
         <div className="">
-          <div className="">
+          <div className="flex mt-4">
             <div className="">
-              <IonIcon name="logo-linkedin" />
+              <IonIcon name="logo-instagram" size="large"/>
             </div>
+            <div className="pl-2">
+              <p className="text-xl">Instagram</p>
+            </div>
+          </div>
+        </div>
+
+        <div className="">
+          <div className="flex mt-4">
             <div className="">
-              <p className="">Linkedin</p>
+              <IonIcon name="logo-youtube" size="large"/>
+            </div>
+            <div className="pl-2">
+              <p className="text-xl">Youtube</p>
+            </div>
+          </div>
+        </div>
+
+        <div className="">
+          <div className="flex mt-4">
+            <div className="">
+              <IonIcon name="logo-linkedin" size="large"/>
+            </div>
+            <div className="pl-2">
+              <p className="text-xl">Linkedin</p>
             </div>
           </div>
         </div>
