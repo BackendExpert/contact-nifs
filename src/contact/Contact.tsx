@@ -35,7 +35,7 @@ const Contact = () => {
           </div>
         </div>
         <div className="">
-          <p className="">Colombo Office</p>
+          <p className="text-xl pb-2 font-semibold">Colombo Office</p>
           <div className="">
             <p>National Institute of Fundamental Studies</p>
             <p>No,380/71,72, Bauddhaloka Mawatha</p>
@@ -60,7 +60,7 @@ const Contact = () => {
           </div>
         </div>
         <div className="">
-          <p className="">NIFS Sam Popham's Arboretum</p>
+          <p className="text-xl pb-2 font-semibold">NIFS Sam Popham's Arboretum</p>
           <div className="">
             <p>Kandalama Road</p>
             <p>Damubulla</p>
@@ -86,7 +86,8 @@ const Contact = () => {
         </div>
       </div>
 
-      <p className="">Enquiries</p>
+      <p className="text-2xl pb-2 mt-8">Enquiries</p>
+      <hr className="mb-4"/>
       <div className="md:grid grid-cols-3 gap-4">
         <div className="">
           <p className="">General enquiries</p>
