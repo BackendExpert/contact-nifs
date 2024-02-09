@@ -14,7 +14,7 @@ const Contact = () => {
             <p>Kandy</p>
             <p>Sri Lanka</p>
             <div className="">
-              <span><IonIcon name="" /></span>
+              <span><IonIcon name="call" /></span>
             </div>
           </div>
         </div>
