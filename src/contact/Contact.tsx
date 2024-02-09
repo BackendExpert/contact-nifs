@@ -96,8 +96,12 @@ const Contact = () => {
           <p className="">media@nifs.ac.lk</p>
         </div>
         <div className="">
-          <p className="">Research enquiries</p>
-          <p className="">research@nifs.ac.lk</p>
+          <p className="">Website enquiries</p>
+          <p className="">web@nifs.ac.lk</p>
+        </div>
+        <div className="">
+          <p className="">Right to Information</p>
+          <p className="">rti@nifs.ac.lk</p>
         </div>
       </div>
     </div>
